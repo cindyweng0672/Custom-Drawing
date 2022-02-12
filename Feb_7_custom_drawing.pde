@@ -160,29 +160,3 @@ triangle(455, 487, 455, 526, 480, 526);
 stroke(61, 81, 95);
 strokeWeight(2);
 line(430, 450, 480, 526);
-
-
-
-
-
-
-
-/*int x=0;
-int y=x+30;
-int z=100;
-int w=z;
-
-int i=x;
-int k=y;
-int n=w;
-
-while (x<580){
-  i=+100;
-  z=+75;
-    
-}
-*/
-
-
-//ellipse(x, z, 40, 40);
-//ellipse(y, z, 40, 40);
